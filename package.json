@@ -1,0 +1,23 @@
+{
+  "name": "cookie-analyzer",
+  "version": "1.0.0",
+  "description": "Webapp to analyze __utmvc cookies and Incapsula scripts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "vercel-build": "echo 'Built successfully'",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "@babel/generator": "^7.26.5",
+    "@babel/parser": "^7.26.5",
+    "@babel/traverse": "^7.26.5",
+    "@babel/types": "^7.26.5",
+    "body-parser": "^1.20.3",
+    "btoa": "^1.2.1",
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
