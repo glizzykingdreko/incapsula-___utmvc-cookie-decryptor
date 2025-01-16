@@ -1,6 +1,6 @@
 # Incapsula ___utmvc Cookie Analyzer & Decryptor
 
-A web-based tool to analyze and decrypt Incapsula's ___utmvc cookies. Try it out [here](https://incapsula-utmvc-cookie-decryptor.vercel.app).
+A web-based tool to analyze and decrypt Incapsula's (Now Imperva) ___utmvc cookies. Try it out [here](https://incapsula-utmvc-cookie-decryptor.vercel.app).
 
 ![Screenshot](screenshot.png)
 
